@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <databases>
+        <database>
+            <url>127.0.0.1</url>
+            <port>3306</port>
+            <login>admin</login>
+            <password></password>
+        </database>
+        <database>
+            <url>127.0.0.1</url>
+            <port>3302</port>
+            <login>admin</login>
+            <password>admin</password>
+        </database>
+    </databases>
+</config>
